@@ -1,0 +1,36 @@
+color:
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+  brandStrength: 0.7253768336959183
+  lightness: 0.6836334732361138
+  saturation: 0.9451086239423603
+  rhythmicContrast: 0.3208213741891086
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: LogixTree Networks
+layout_spectrum: 0.6388662336394191
+typography_spectrum: 0.80259206937626
+content: []
+title: LogixTree Networks
+description: 'We Help you, Go Digital'
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e8376b-5f2d-4a11-b0df-4076edb964a9.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3c7cb5b-a522-4ff9-8781-e03123eec185.png
+author:
+  name: Team LogixTree
+  email: info@logixtree.in
+  url: 'https://logixtree.in'
+opengraph:
+  appId: '1242438159115289'
+  type: Product
